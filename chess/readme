@@ -1,0 +1,5 @@
+This is a sample chess game without AI write by QT creater with the language of c++.
+There are three windows. One for server and two for client. Clients use TCP to communicate with the style of json.
+On client side, there are two chess game to choose include five game and go game amd players can stop, continue and restart the game.
+
+
